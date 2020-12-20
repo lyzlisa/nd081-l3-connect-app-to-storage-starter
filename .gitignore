@@ -313,3 +313,5 @@ override.tf.json
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,terraform,python,pycharm,vscode
+
+infra/state.json
